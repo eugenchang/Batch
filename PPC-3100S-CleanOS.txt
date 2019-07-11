@@ -1,0 +1,4 @@
+PPC-3100S Clean OS Image
+
+1. Windows 10 IoT 2016 Enterprise LTSB (English)
+2. PPC-3100S Driver installed

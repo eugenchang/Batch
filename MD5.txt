@@ -1,0 +1,27 @@
+MD5 ハッシュ (対象 filelist.txt):
+0e42fc3c6bacdca8503b2cc643f68abf
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625.GHO):
+ccc5fdad5c8efa7e9e96477d4549fc2f
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625001.ghs):
+07565838ae4b738268832497c75e8a45
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625002.ghs):
+beee0ddfde2dc5f60cfd26b3955be7b5
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625003.ghs):
+fb3f8c72d4e695a50c0f4ddd88ceb802
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625004.ghs):
+61f04b8ee1e59e2c4749ee448d267575
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625005.ghs):
+9e3cfcdae5239cb7e86e9091fb608f8b
+ 
+MD5 ハッシュ (対象 PPC-3100S-OMR_0625006.ghs):
+e8d1bfba8e903726fc27cf832e040e2e
+ 
+MD5 ハッシュ (対象 ReleaseNote.txt):
+c9ad9af5db45121d6f8cc0c6288eb40f
+ 
